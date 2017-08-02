@@ -1,0 +1,29 @@
+
+html {background: midnightblue; 
+}
+
+h1 {
+	color: white; 
+	font-family: 'Indie Flower', cursive;
+	font-size: 55px;
+	text-align: center;
+	font-weight: bold;
+}
+h2 {
+	color: seashell;
+	font-family: 'Indie Flower', cursive;
+	font-size: :40px;
+	text-align: center;
+	font-weight: bold;
+}
+p {
+	color: oldlace; 
+	font-family: 'Indie Flower', cursive;
+	font-size: 30px;
+	text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
